@@ -1,25 +1,25 @@
-#Personal Information:
+# Personal Information:
 Davyd Veremchuk
 
-#Contacts:
+# Contacts:
 * Phone: +38 098 104 6865;
 * Instagram: [@uonlyliveoncee_](https://www.instagram.com/uonlyliveoncee_/?igshid=1689nizc9r53v);
 * Telegram: [@insp1r3d](https://t.me/insp1r3d);
 * Gmail: veremchuk.davud@gmail.com, yfyfcz703@gmail.com;
 
-#A piece of information about me:
+# A piece of information about me:
 I'm 19 y.o student from Ukraine, L'viv. I started learning programming almost a year ago. 
 By now i've learned HTML, CSS, JS and fundamentals of Java and Phyton.
 My aim is to learn as much as i can and as soon as possible to get a well-paid job in IT.
 
-#Hard Skills:
+# Hard Skills:
 * HTML
 * CSS
 * JS
 * JAVA
 * Python
   
-#Work Experience:
+# Work Experience:
 * Courses:
   * [HTML Fundamentals course](https://www.sololearn.com/Certificate/1014-11030539/pdf/)
   * [CSS Fundamentals course](https://www.sololearn.com/Certificate/1023-11030539/pdf/)
@@ -33,7 +33,7 @@ My aim is to learn as much as i can and as soon as possible to get a well-paid j
     *[Source Code](github.com/1nspir3d/Example-Landing);
 
 
-#Education:
+# Education:
 * Courses:
   * [HTML Fundamentals course](https://www.sololearn.com/Certificate/1014-11030539/pdf/)
   * [CSS Fundamentals course](https://www.sololearn.com/Certificate/1023-11030539/pdf/)
@@ -41,7 +41,7 @@ My aim is to learn as much as i can and as soon as possible to get a well-paid j
 * Online-webinar at Prog.kiev.ua on the topic "JAVA Start"
 * Online intensive on the topic "Racing Game on JS"
 
-#Level of English:
+# Level of English:
 Upper Inermediate B2
 
 
