@@ -1,0 +1,39 @@
+html {
+    font-family: 'Nunito', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: #0055bf;
+}
+
+a:hover {
+    color: #03c9ec;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 940px;
+    height: 100%;
+    margin: 0 auto;
+    padding: 0 5px;
+
+    border: 1ps solid black;
+}
+
+.title {
+    padding-bottom: 15px;
+    border-bottom: 1px solid #bdbdbd;
+}
+
+.photo {
+    width: 250px;
+    border-radius: 20px;
+}
+
+
+
